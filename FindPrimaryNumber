@@ -1,3 +1,7 @@
+//This program find to primary Numbers beetween 0 to 100
+//Author: KhashayarPourakpour
+//WebSite: Pourakpour.ir
+
 #include <stdio.h>
 
 int main()
