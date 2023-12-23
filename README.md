@@ -1,4 +1,4 @@
-Some Project With C language 
+Some Projects With C language 
 by: KhashayarPourakpour
 
 بعضی پروژه ها و نمونه کد با زبان C
